@@ -1,0 +1,11 @@
+victime                                   Mort        Lieu                           date               Cause
+33                                        8           Auto.Nord                     05.04.2021         Mini car
+27                                        6          Auto.Nord                      05.04.2021         Mini car
+                                          21         tronçon Bouaflé-Yamousoukro    25.03.2021         Car
+31                                        10         Auto.Nord                      30.03.2020         Mini Car
+5                                         3          Auto.Nord                      26.03.2021         Canion de Transport
+7                                         3          Auto.Nord                      23.03.2021         Canion de transport de Marchandise
+3                                         3          Axe Abidjan-bassam             16.03.2021         Autres
+28                                        04         Bouaflé                        29.01.2021         Mini-car
+5                                         02         Auto.Nord                      18.01.2021         Canion de Transport
+                                          07         Auto.Nord                      10.11.2020         Arbre abatu
